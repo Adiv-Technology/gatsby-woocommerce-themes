@@ -16,10 +16,6 @@ This theme uses `gatsby-source-wordpress@v4 BETA`
 
 *** 👨‍💻 Please star my repo to support my work 🙏 ***
 
-<a href="https://youtu.be/ygaE8ZdPEX8" target="_blank">
-<img src="https://codeytek.com/wp-content/uploads/2020/09/Screenshot-2020-09-09-at-11.05.27-PM.png" alt="gatsby woocommerce theme electra hero image" />
-</a>
-
 ## 🔥 Features
 1. Uses React with Gatsby ( Blazing Fast )
 2. PWA ( Works Offline )
